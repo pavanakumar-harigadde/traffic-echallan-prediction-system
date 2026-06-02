@@ -21,6 +21,7 @@ Rows: 4061
 | Linear Regression | 0.980 |
 | Decision Tree | 0.992 |
 | Random Forest | 0.995 |
+
 Random Forest achieved the best performance.
 
 ## Features Used
